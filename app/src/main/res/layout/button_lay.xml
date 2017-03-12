@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmnt.example.slidefinishdemo.SlideFinishLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#49ce4c"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="75dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#8b8b8b"
+        android:text="btn1"/>
+
+</tmnt.example.slidefinishdemo.SlideFinishLayout>
